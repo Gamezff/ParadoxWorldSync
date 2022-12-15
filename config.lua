@@ -1,5 +1,5 @@
 Config = Config or {}
-Config.PermsGroup = 'god'
+Config.PermsGroup = 'admin'
 
 -- Preset Dimmensions --
 Config.PresetWorlds = {
